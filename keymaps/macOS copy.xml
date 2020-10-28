@@ -1,0 +1,27 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="List-selectLastRow" />
+  <action id="MoveStatementDown" />
+  <action id="ResizeToolWindowDown" />
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="ServiceView.JumpToServices">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="Table-selectLastRow" />
+</keymap>
