@@ -7,6 +7,7 @@
       <mapping pattern="WhiteListForm.tsx" type="PLAIN_TEXT" />
       <mapping pattern="Iframe.tsx" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
+      <mapping ext="vm" type="PLAIN_TEXT" />
       <mapping pattern="CollapseableIFrame" type="TypeScript JSX" />
       <removed_mapping pattern="invalidateMagicLink.js" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
