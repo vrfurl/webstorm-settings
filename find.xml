@@ -5,19 +5,17 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
-    <mask>*.htm</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
-    <mask>*.sht</mask>
     <mask>*.ng</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
     <mask>*.html</mask>
+    <mask>*.mts</mask>
+    <mask>*.cts</mask>
     <mask>*.ats</mask>
+    <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.ts,*.tsx</mask>
-    <mask>*.tsx</mask>
-    <mask>*ts,*.tsx</mask>
-    <mask>*.yaml</mask>
-    <mask>*.ts</mask>
   </component>
 </application>
